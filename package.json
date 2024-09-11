@@ -13,6 +13,7 @@
   "dependencies": {
     "@prisma/client": "^5.19.0",
     "apinode": "file:",
+    "cors": "^2.8.5",
     "express": "^4.19.2"
   },
   "devDependencies": {
